@@ -2,7 +2,7 @@
 
 * `Node` - A premade functionality (a defined logic)
 
-* `String` - Programmer's speak for `text`
+* `String` - Programmer's speak for **text**
 
 * `Event` - A "when" node (as in when should this functionality happen)
 
